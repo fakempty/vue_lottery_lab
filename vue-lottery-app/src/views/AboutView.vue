@@ -11,6 +11,6 @@
       <span class="badge bg-secondary fs-6 p-2">SCSS / Bootstrap</span>
       <span class="badge bg-warning text-dark fs-6 p-2">REST API & JWT</span>
     </div>
-    <a href="https://github.com" target="_blank" class="btn btn-outline-dark">Мій GitHub</a>
+    <a href="https://github.com/fakempty/vue_lottery_lab" target="_blank" class="btn btn-outline-dark">Мій GitHub</a>
   </div>
 </template>
