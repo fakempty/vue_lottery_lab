@@ -1,8 +1,8 @@
-﻿import { createRouter, createWebHistory } from 'vue-router';
+﻿import { createRouter, createWebHashHistory } from 'vue-router';
 import { useAuthStore } from '../stores/auth';
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes: [
     { path: '/', name: 'home', component: () => import('../views/HomeView.vue'), meta: { title: 'Home | LotteryApp', layout: 'default' } },
     { path: '/about', name: 'about', component: () => import('../views/AboutView.vue'), meta: { title: 'About | LotteryApp', layout: 'default' } },

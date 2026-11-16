@@ -14,7 +14,7 @@
       <li><strong>VeeValidate + Zod</strong> для валідації форм</li>
     </ul>
     <div class="mt-4">
-      <a href="https://github.com" target="_blank" class="btn btn-dark">GitHub Репозиторій</a>
+      <a href="https://github.com/fakempty/vue_lottery_lab" target="_blank" class="btn btn-dark">GitHub Репозиторій</a>
     </div>
   </div>
 </template>
